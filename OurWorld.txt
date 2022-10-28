@@ -8,7 +8,7 @@ Compiled by Ciaran Kinsella [CK]
 ---- United States of America [pl]
 Land of the free and the home of the brave.
 ---- Brazil [ED]
-Dont get taken here 
+Dont get taken here
 ---- Mexico [CK]
 Its curse of spicy food has plagued my insides.
 ---- Canada [NR]
@@ -29,11 +29,10 @@ Very nice coasts and the food is to die for!
 The bratwurst is a delightful food!
 ---- Portugal [ED] 
 I know its sunny  
+
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
-Home of the Pyrimads
------ Angola [ED]
-Looks nicer than you'd imagine
+Home of the Pyramids
 ----- Guinea [NR]
 Has a cool strict nature reserve called Mount Nimba 
 ----- Chad [NR,CK]
@@ -41,6 +40,10 @@ Lots of sand I don’t like sand. It’s coarse and rough and irritating… and 
 It has a cool name!
 ----- Angola  [ED]
 Looks nicer than you'd imagine 
+---- Congo [CK]
+Rhymes with bongo.
+
+
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ Japan [NR]
 Home of the green tea flavoured kit Kat
@@ -54,10 +57,13 @@ Back in nam, they attacked us from the trees.
 I like the food 
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
------ Australia [NR]
-The animals are prety crazy over ther
+----- Australia [NR, ED]
+The animals are prety crazy over there
+Devils pet store
 ----- Iceland [NR]
 The northern lights are the best natural effect.
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
+---- New  Zealand [CK]
+Temuera Morrison, a true gem of our time. He awaits at the polynesian spa...
