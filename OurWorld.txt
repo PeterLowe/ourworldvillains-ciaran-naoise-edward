@@ -9,6 +9,8 @@ Compiled by Ciaran Kinsella [CK]
 Land of the free and the home of the brave.
 ---- Brazil [ED]
 Dont get taken here
+---- Chile [ED]
+I quite like the chilli 
 ---- Mexico [CK]
 Its curse of spicy food has plagued my insides.
 ---- Canada [NR]
@@ -19,8 +21,6 @@ The statue of Jesus is pretty cool.
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
----- Portugal [ED]
-I know its sunny 
 ---- Sweden [CK]
 Small balls of meat is their specialty, along with furniture stores.
 ---- Italy [NR]
@@ -29,6 +29,8 @@ Very nice coasts and the food is to die for!
 The bratwurst is a delightful food!
 ---- Portugal [ED] 
 I know its sunny  
+---- Ireland [ED] 
+Highest rate of cystic fibrosis 
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
@@ -40,6 +42,8 @@ Lots of sand I don’t like sand. It’s coarse and rough and irritating… and 
 It has a cool name!
 ----- Angola  [ED]
 Looks nicer than you'd imagine 
+----- Mozambique [ED]
+That gun in Apex Legends 
 ---- Congo [CK]
 Rhymes with bongo.
 
@@ -55,7 +59,8 @@ Great Wall of China seen from space
 Back in nam, they attacked us from the trees.
 ------ India [ED]
 I like the food 
-
+------ Taiwan [ED]
+Dont let china find out this is not a country 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- Australia [NR, ED]
 The animals are prety crazy over there
@@ -67,3 +72,5 @@ The only thing more unthinkable than leaving was staying;
 the only thing more impossible than staying was leaving.
 ---- New  Zealand [CK]
 Temuera Morrison, a true gem of our time. He awaits at the polynesian spa...
+---- United Kingdom [ED]
+Irish prejudice 
