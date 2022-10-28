@@ -27,14 +27,14 @@ The bratwurst is a delightful food!
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
------ Chad [CK]
-It has a cool name!
 ----- Guinea [NR]
 Has a cool strict nature reserve called Mount Nimba 
------ Chad [NR]
+----- Chad [NR,CK]
 Lots of sand I don’t like sand. It’s coarse and rough and irritating… and it gets everywhere.
 ---- Congo [CK]
 Rhymes with bongo.
+---- Chad [CK]
+It has a cool name!
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ Japan [NR]
