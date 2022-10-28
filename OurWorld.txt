@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-                             Edward Norton [ED]
-
-=======
+Compiled by Edward Norton [ED]
 Compiled by Naoise Ryan [NR]
 Compiled by Ciaran Kinsella [CK]
->>>>>>> e767cc4385673cd63691554ca0d5ae21ffa05fd2
+
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America 
