@@ -3,10 +3,16 @@ Compiled by Edward Norton [ED]
 Compiled by Naoise Ryan [NR]
 Compiled by Ciaran Kinsella [CK]
 
+testing
+
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
+---- Alaska [NR]
+The Simpsons movie was set there
+---- Brazil [ED]
+Dont get taken here
 ---- Mexico [CK]
 Its curse of spicy food has plagued my insides.
 ---- Canada [NR]
@@ -17,14 +23,22 @@ The statue of Jesus is pretty cool.
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
+---- Greece [NR]
+Lots of cool stories about that place
+---- Portugal [ED]
+I know its sunny 
 ---- Sweden [CK]
 Small balls of meat is their specialty, along with furniture stores.
 ---- Italy [NR]
 Very nice coasts and the food is to die for!
 ---- Germany [NR]
 The bratwurst is a delightful food!
+---- Portugal [ED] 
+I know its sunny  
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
+----- Kenya [NR]
+Might see an elephant or two
 ----- Egypt [pl]
 Home of the Pyramids
 ----- Guinea [NR]
@@ -32,29 +46,34 @@ Has a cool strict nature reserve called Mount Nimba
 ----- Chad [NR,CK]
 Lots of sand I don’t like sand. It’s coarse and rough and irritating… and it gets everywhere.
 It has a cool name!
+----- Angola  [ED]
+Looks nicer than you'd imagine 
 ---- Congo [CK]
 Rhymes with bongo.
 
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
+------ Thailand [NR]
+Symetrical flag, looks pretty cool
 ------ Japan [NR]
 Home of the green tea flavoured kit Kat
 ------ Nepal [NR]
 The mountains looks really cool and the towns are nice.
------- China [pl]
+------ China 
 Great Wall of China seen from space
 ---- Vietnam [CK]
 Back in nam, they attacked us from the trees.
----- South Korea [CK]
-Not as harsh as the north.
+------ India [ED]
+I like the food 
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
------ Australia [NR]
+----- Australia [NR, ED]
 The animals are prety crazy over there
+Devils pet store
 ----- Iceland [NR]
 The northern lights are the best natural effect.
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
----- New  Zealand [CK]
+---- New  Zealand [CK, NR]
 Temuera Morrison, a true gem of our time. He awaits at the polynesian spa...
