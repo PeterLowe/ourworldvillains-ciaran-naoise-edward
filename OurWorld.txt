@@ -3,10 +3,13 @@ Compiled by Edward Norton [ED]
 Compiled by Naoise Ryan [NR]
 Compiled by Ciaran Kinsella [CK]
 
-
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
+---- Cuba [NR]
+The cigars are fancy
 ---- United States of America [pl]
 Land of the free and the home of the brave.
+---- Alaska [NR]
+The Simpsons movie was set there
 ---- Brazil [ED]
 Dont get taken here
 ---- Chile [ED]
@@ -19,20 +22,28 @@ Very good bunch of lads, cool flag with the leaf.
 The statue of Jesus is pretty cool.
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
+---- Poland [NR]
+Very cool country with nice people
 ---- France [pl]
 Ooh la la! 
+---- Greece [NR]
+Lots of cool stories about that place
+---- Portugal [ED]
+I know its sunny 
 ---- Sweden [CK]
 Small balls of meat is their specialty, along with furniture stores.
 ---- Italy [NR]
 Very nice coasts and the food is to die for!
 ---- Germany [NR]
 The bratwurst is a delightful food!
----- Portugal [ED] 
-I know its sunny  
 ---- Ireland [ED] 
 Highest rate of cystic fibrosis 
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
+----- Madagascar [NR]
+The movie is more known then the country
+----- Kenya [NR]
+Might see an elephant or two
 ----- Egypt [pl]
 Home of the Pyramids
 ----- Guinea [NR]
@@ -49,6 +60,10 @@ Rhymes with bongo.
 
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
+------ South Korea [NR]
+Much better than their northern counterpart
+------ Thailand [NR]
+Symetrical flag, looks pretty cool
 ------ Japan [NR]
 Home of the green tea flavoured kit Kat
 ------ Nepal [NR]
@@ -62,6 +77,8 @@ I like the food
 ------ Taiwan [ED]
 Dont let china find out this is not a country 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
+----- Hawaii [NR]
+Would not mind going on a trip there
 ----- Australia [NR, ED]
 The animals are prety crazy over there
 Devils pet store
@@ -70,7 +87,7 @@ The northern lights are the best natural effect.
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
----- New  Zealand [CK]
+---- New  Zealand [CK, NR]
 Temuera Morrison, a true gem of our time. He awaits at the polynesian spa...
 ---- United Kingdom [ED]
 Irish prejudice 
