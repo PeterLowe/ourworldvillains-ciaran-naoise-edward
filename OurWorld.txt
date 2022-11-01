@@ -3,14 +3,17 @@ Compiled by Edward Norton [ED]
 Compiled by Naoise Ryan [NR]
 Compiled by Ciaran Kinsella [CK]
 
-test
-
-
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
+---- Cuba [NR]
+The cigars are fancy
 ---- United States of America [pl]
 Land of the free and the home of the brave.
+---- Alaska [NR]
+The Simpsons movie was set there
 ---- Brazil [ED]
 Dont get taken here
+---- Chile [ED]
+I quite like the chilli 
 ---- Mexico [CK]
 Its curse of spicy food has plagued my insides.
 ---- Canada [NR]
@@ -19,10 +22,24 @@ Very good bunch of lads, cool flag with the leaf.
 The statue of Jesus is pretty cool.
 ---- Argentina [CK]
 Maybe this is where the Argent energy is created. Doom Eternal changed me as a man.
+---- Kansas [ED]
+I dont think were in Kansas Toto 
+---- New Mexico [ED]
+My name is Walter Hartwell White. I live at 308 Negra Aroya Lane, Albuquerque, New Mexico, 87104.
+---- Florida [CK]
+Nothing can defeat the infamous floridion man....
+---- Ohio [CK]
+Bruh only in ohio, "Skull emoji"
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
+---- Poland [NR]
+Very cool country with nice people
 ---- France [pl]
 Ooh la la! 
+---- Greece [NR]
+Lots of cool stories about that place
+---- Portugal [ED]
+I know its sunny 
 ---- Sweden [CK]
 Small balls of meat is their specialty, along with furniture stores.
 ---- Italy [NR]
@@ -33,8 +50,22 @@ The bratwurst is a delightful food!
 I know its sunny  
 ---- Moldova [CK]
 MaMa Moldova whispers in my ears as I drift into endless eternity.
+---- Ireland [ED] 
+Highest rate of cystic fibrosis 
+---- Spain [ED]
+No one expects the spanish inquisition
+---- Denmark [ED]
+Io interactive is set here, developed Hitman
+---- Latvia [CK]
+Pepper spray will not stop me. That is all.
+---- Turkey [CK]
+I'd like to cut back on the Christmas leftovers, but I just can't quit cold turkey.
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
+----- Madagascar [NR]
+The movie is more known then the country
+----- Kenya [NR]
+Might see an elephant or two
 ----- Egypt [pl]
 Home of the Pyramids
 ----- Guinea [NR]
@@ -43,11 +74,22 @@ Has a cool strict nature reserve called Mount Nimba
 It has a cool name!
 ----- Angola  [ED]
 Looks nicer than you'd imagine 
+----- Mozambique [ED]
+That gun in Apex Legends 
 ---- Congo [CK]
 Rhymes with bongo.
-
+---- Liberia [ED]
+First african country to have a female president  
+---- Tunisia[ED]
+Movies are filmed here alot 
+---- Zambabwe [CK]
+Almost south africa but not quite.
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
+------ South Korea [NR]
+Much better than their northern counterpart
+------ Thailand [NR]
+Symetrical flag, looks pretty cool
 ------ Japan [NR]
 Home of the green tea flavoured kit Kat
 ------ Nepal [NR]
@@ -60,9 +102,16 @@ Back in nam, they attacked us from the trees.
 I like the food 
 ---- Philippines [CK]
 My uncles name is philip. Like what else is there to say about this place??
-
+------ Taiwan [ED]
+Be careful around China 
+------ Mongolia [ED]
+Dont try to understand the Genghis Khan family tree
+------ Cambodia [ED]
+Indiana Jones Temple Of Doom was filmed here 
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
+----- Hawaii [NR]
+Would not mind going on a trip there
 ----- Australia [NR, ED]
 The animals are prety crazy over there
 Devils pet store
@@ -71,7 +120,13 @@ The northern lights are the best natural effect.
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
----- New  Zealand [CK]
+---- New  Zealand [CK, NR]
 Temuera Morrison, a true gem of our time. He awaits at the polynesian spa...
 ---- Antartica [CK]
 She may be my aunt, but she always gave me the cold sholder. 
+---- United Kingdom [ED]
+Irish prejudice 
+---- Indonesia [ED]
+17508 islands is quite nuts 
+---- Russia [ED]
+Considered part of Eurasia, and Dmitry Glukhovsky was born here
